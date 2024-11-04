@@ -1,6 +1,6 @@
 # Atividade 01 - Talento Cloud
 
-Este projeto faz parte do curso **Talento Cloud**, oferecido pela **Proz** em parceria com a **AWS**. Atualmente, estou no módulo **Preparação para HTML/CSS**. Nesta atividade, praticamos o uso de arrays em Python, declarando e exibindo listas de itens e dados pessoais.
+Este projeto faz parte do curso **Talento Cloud**, oferecido pela **Proz** em parceria com a **AWS**. Atualmente, estou no módulo **Preparação para HTML/CSS**. Nesta atividade, praticamos o uso de arrays em Python, declarando e exibindo listas de itens e dados pessoais. O código foi desenvolvido no **Google Colab**(Pode ser acessado aqui: https://colab.research.google.com/drive/1WTDFEvActYb8ip6f1acWvwZJ8LgB0YPk?authuser=2#scrollTo=cig8XVih8qUB).
 
 ## Descrição da Atividade
 
@@ -46,6 +46,7 @@ Ao rodar este código, o terminal deverá exibir as duas listas declaradas:
 ## Tecnologias Utilizadas
 
 - **Python**: Linguagem de programação usada para realizar a atividade.
+- **Google Colab**: Ambiente de desenvolvimento onde o código foi executado.
 
 ## Sobre o Projeto Talento Cloud
 
