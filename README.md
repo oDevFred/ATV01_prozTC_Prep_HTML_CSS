@@ -1,6 +1,6 @@
-# Atividade 01 - Introdução à Programação - Talento Cloud Proz ft AWS
+# Atividade 01 - Talento Cloud
 
-Este projeto faz parte do curso de Introdução à Programação oferecido pela Proz em parceria com o Talento Cloud e AWS. Nesta atividade, praticamos o uso de arrays em Python, declarando e exibindo listas de itens e dados pessoais.
+Este projeto faz parte do curso **Talento Cloud**, oferecido pela **Proz** em parceria com a **AWS**. Atualmente, estou no módulo **Preparação para HTML/CSS**. Nesta atividade, praticamos o uso de arrays em Python, declarando e exibindo listas de itens e dados pessoais.
 
 ## Descrição da Atividade
 
@@ -47,6 +47,6 @@ Ao rodar este código, o terminal deverá exibir as duas listas declaradas:
 
 - **Python**: Linguagem de programação usada para realizar a atividade.
 
-## Sobre o Projeto Talento Cloud Proz ft AWS
+## Sobre o Projeto Talento Cloud
 
-Este projeto faz parte da formação em programação promovida pela Proz em parceria com AWS, através do programa Talento Cloud, que visa capacitar alunos com competências em programação e desenvolvimento de software.
+Este projeto faz parte da formação em programação promovida pela Proz em parceria com a AWS, através do programa Talento Cloud, que visa capacitar alunos com competências em programação e desenvolvimento de software.
